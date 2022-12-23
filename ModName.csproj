@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <Reference Include="MelonLoader">
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+    </Reference>
+    <Reference Include="UnhollowerBaseLib">
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+    </Reference>
+    <Reference Include="UnityEngine.Il2CppAssetBundleManager">
+    </Reference>
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
